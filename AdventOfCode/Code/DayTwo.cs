@@ -42,7 +42,6 @@ namespace AdventOfCode.Code
 
                 if (possible)
                     running += id;
-
             }
 
             Console.WriteLine("Day 2 - Part 1: " + running);
@@ -50,8 +49,6 @@ namespace AdventOfCode.Code
 
         internal void SolutionPartTwo()
         {
-            
-
             var parse = input.Split("\n");
             var running = 0;
 
@@ -78,7 +75,6 @@ namespace AdventOfCode.Code
                         if(num > value)
                             fewest[color] = num;
                     }
-
                 }
                 fewest.TryGetValue("blue", out int blue);
                 fewest.TryGetValue("red", out int red);

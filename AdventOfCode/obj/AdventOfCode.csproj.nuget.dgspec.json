@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\finge\\source\\repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
+    "C:\\Users\\finge\\Source\\Repos\\AdventOfCode-2023\\AdventOfCode\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\finge\\source\\repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
+    "C:\\Users\\finge\\Source\\Repos\\AdventOfCode-2023\\AdventOfCode\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\finge\\source\\repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectUniqueName": "C:\\Users\\finge\\Source\\Repos\\AdventOfCode-2023\\AdventOfCode\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "C:\\Users\\finge\\source\\repos\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectPath": "C:\\Users\\finge\\Source\\Repos\\AdventOfCode-2023\\AdventOfCode\\AdventOfCode.csproj",
         "packagesPath": "C:\\Users\\finge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\finge\\source\\repos\\AdventOfCode\\AdventOfCode\\obj\\",
+        "outputPath": "C:\\Users\\finge\\Source\\Repos\\AdventOfCode-2023\\AdventOfCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\finge\\AppData\\Roaming\\NuGet\\NuGet.Config",
