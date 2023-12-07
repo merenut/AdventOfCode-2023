@@ -14,3 +14,4 @@ three.SolutionPartTwo();
 four.SolutionPartOne();
 four.SolutionPartTwo();
 five.SolutionPartOne();
+five.SolutionPartTwo();
